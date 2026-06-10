@@ -77,12 +77,12 @@ Concepts:    OOP | Data Structures | APIs | Software Design
 
 ## 📈 GitHub Activity
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gursharantatla-sheridan&show_icons=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gursharantatla-sheridan&layout=compact" width="48%" />
 </p>
 
+![GitHub Streak](https://streak-stats.demolab.com?user=gursharantatla-sheridan)
 
 ---
 
