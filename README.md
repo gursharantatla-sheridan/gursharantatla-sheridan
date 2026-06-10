@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Gursharan Tatla
 
 🎓 Professor @ Sheridan College, Ontario, Canada
+
 💻 Applied Computing | Software Development | Student-Centered Learning
 
 ---
