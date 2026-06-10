@@ -75,16 +75,6 @@ Concepts:    OOP | Data Structures | APIs | Software Design
 ```
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gursharantatla-sheridan&show_icons=true" width="32%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gursharantatla-sheridan&layout=compact" width="32%"/>
-  <img src="https://streak-stats.demolab.com?user=gursharantatla-sheridan" width="32%"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/gstatla/
@@ -105,6 +95,16 @@ If you're one of my students exploring this page:
 👉 Ask questions and stay curious
 
 > *"The goal is not just to write code, but to think like a developer."*
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gursharantatla-sheridan&show_icons=true" width="32%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gursharantatla-sheridan&layout=compact" width="32%"/>
+  <img src="https://streak-stats.demolab.com?user=gursharantatla-sheridan" width="32%"/>
+</p>
 
 ---
 
