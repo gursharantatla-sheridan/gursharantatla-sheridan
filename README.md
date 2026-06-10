@@ -25,8 +25,7 @@ Web:         HTML | CSS | JavaScript
 Mobile:      Kotlin | Flutter
 Tools:       Git | GitHub | VS Code | Visual Studio IDE
 Concepts:    OOP | Data Structures | APIs | Software Design
-
-
+```
 
 <!--
 **gursharantatla-sheridan/gursharantatla-sheridan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
